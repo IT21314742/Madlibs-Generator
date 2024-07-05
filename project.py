@@ -16,4 +16,4 @@ for i, char in enumerate(story):
         word.append()(word)
         start_of_word = -1
 
-print
+print(word)
