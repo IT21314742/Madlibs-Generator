@@ -29,3 +29,4 @@ for word in words:
     answers[word] = answer
 
 for words in words:
+    story
