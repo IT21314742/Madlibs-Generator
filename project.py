@@ -21,7 +21,7 @@ for i, char in enumerate(story):
         start_of_word = -1
 
 # Initialize a dictionary to store answers
-answers = {}
+answers = 
 
 # Prompt the user for input for each unique word
 for word in words:
