@@ -9,3 +9,4 @@ target_end = ">"
 
 for i, char in enumerate(story):
     if char == target_start:
+        start_of_word = i
