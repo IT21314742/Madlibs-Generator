@@ -30,3 +30,4 @@ for word in words:
 
 for words in words:
     story.replace(word, answers[word])
+    
