@@ -5,4 +5,5 @@ words = []
 start_of_word = -1 
 
 target_start = "<"
+target_end = ">"
 for i, char in enumerate(story):
