@@ -12,4 +12,4 @@ for i, char in enumerate(story):
         start_of_word = i
     
     if char == target_end and start_of_word != -1:
-        
+        word = story[start_of_word: i + 1]
