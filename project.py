@@ -28,5 +28,4 @@ for word in words:
     answer = input("Enter a word for " + word + ":")
     answers[word] = answer
 
-# Print the dictionary of answers
-print(answers)
+for
