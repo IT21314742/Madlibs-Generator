@@ -15,3 +15,5 @@ for i, char in enumerate(story):
         word = story[start_of_word: i + 1]
         word.append()(word)
         start_of_word = -1
+
+print
