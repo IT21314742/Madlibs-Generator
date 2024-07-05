@@ -13,7 +13,7 @@ for i, char in enumerate(story):
     
     if char == target_end and start_of_word != -1:
         word = story[start_of_word: i + 1]
-        word.append()(word)
+        word.append(word)
         start_of_word = -1
 
 print(words)
