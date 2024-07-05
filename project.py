@@ -29,6 +29,6 @@ for word in words:
     answers[word] = answer
 
 for words in words:
-    story =story.replace(word, answers[word])
+    story = story.replace(word, answers[word])
 
 print(story)
