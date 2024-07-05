@@ -20,3 +20,4 @@ answers = {}
 
 for word in words:
     answer = input("Enter a word for" + word + ":")
+    answers[word] = answer
