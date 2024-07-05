@@ -28,4 +28,4 @@ for word in words:
     answer = input("Enter a word for " + word + ":")
     answers[word] = answer
 
-for words in
+for words in words
