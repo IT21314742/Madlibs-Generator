@@ -4,5 +4,5 @@ _**Key Features:**_
 
 - **Interactive Input:**  Prompt users to enter words that are dynamically inserted into pre-defined story templates.
 - **Multiple Templates:**  Choose from a variety of story templates to keep the experience fresh and engaging.
-- Randomized Words:
+- **Randomized Words:**
 
