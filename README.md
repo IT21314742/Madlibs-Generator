@@ -2,4 +2,4 @@ Welcome to the MadLibs Generator, an exciting and fun project developed using Py
 
 _**Key Features:**_
 
-- **Interactive Input:**  Prompt users to enter words that are dynamically inserted into pre-defined
+- **Interactive Input:**  Prompt users to enter words that are dynamically inserted into pre-defined story templates.
