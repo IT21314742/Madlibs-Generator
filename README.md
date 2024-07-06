@@ -1,2 +1,1 @@
-# Madlibs Generator
- -
+Welcome to the MadLibs Generator, an exciting and fun project developed using Python. This application allows users to create their own MadLibs stories by filling in blanks with words such as nouns, adjectives, verbs, and more.
